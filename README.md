@@ -4,10 +4,10 @@ This repository includes Python scripts which can be used to crop, merge and cre
 
 ``` python
 # List of scripts
-import Image_Cropper.py  # To crop images
-import Image_Merger.py  # To merge images
-import Solid_Background.py  # To create solid backgrounds
-import Colours.py  # Variables for all standard HTML hex colours
+import Image_Cropper  # To crop images
+import Image_Merger  # To merge images
+import Solid_Background  # To create solid backgrounds
+import Colours  # Variables for all standard HTML hex colours
 ```
 
 ## Set-up
